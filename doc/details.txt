@@ -1,0 +1,4 @@
+username : root
+password :sandip@123
+
+encryption key : d0e28549819d73dd535c90376f516b40
